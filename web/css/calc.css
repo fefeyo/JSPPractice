@@ -1,0 +1,12 @@
+h1 {
+    color: yellow;
+}
+input[number] {
+    width: 200px;
+    font-size: 20px;
+}
+
+input[submit] {
+    font-size:30px;
+}
+
